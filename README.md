@@ -1,6 +1,6 @@
-# multimarkdowncomposer-theme
+# MultiMarkdown Composer Theme: TomorrowPlus-Bootrstrap
 
-This theme uses **TomorrowPlus** for the editor and **Bootstrap** for the web output. 
+This theme uses **TomorrowPlus** for the editor and **Bootstrap** for the preview. 
 
 How to install this theme:
 
